@@ -50,7 +50,7 @@
         <p>I'm thrilled to tell you that <strong>we've launched our new Vintage Thrift Cloth Store website</strong>! 🛍️</p>
         <p>Check it out and give me your feedback. I'm sure you'll love it! 😊</p>
         <p>Love, [sujal] ❤️</p>
-        <a href="https://www.instagram.com/xpiyush._.x?igsh=NTc4MTIwNjQ2YQ%3D%3D" class="button">Follow Us on Instagram</a>
+        <a href="link.html" class="button">Follow Us on Instagram</a>
     </div>
 </body>
 </html>
